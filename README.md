@@ -61,3 +61,7 @@ docker inspect < CONTAINER ID> | grep "IPAddress"
 [Github Action deploy springboot in github artfacts](https://www.youtube.com/watch?v=a27v_VDD-eA)
 
 [Repositorio base para criar o dockerfile do my miles](https://github.com/mcicolella/docker-microservice)
+
+## Primeiro dockerfile 
+
+<script src="https://gist.github.com/allefsousa/df180b874deb363933807cc5fc78e00f.js"></script>
