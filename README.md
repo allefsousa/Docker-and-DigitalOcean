@@ -22,3 +22,14 @@ Desafios superados utilizando docker e digital ocean. Foi utilizado Droplets, Ap
 **Ex:** docker run -p 8080  allefsousa/mymiles:0.0.4   
 
 **Descobri IP do container local:** docker inspect < CONTAINER ID> | grep "IPAddress"
+
+## Links uteis
+[Deploy spring boot in droplet](https://www.digitalocean.com/community/questions/deploy-spring-boot-jar-fie)
+
+[Usar Screen no ubuntu para deixar a aplicação rodando](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-screen-on-an-ubuntu-cloud-server)
+
+[Criando meu primeiro dockerfile](https://www.youtube.com/watch?v=5QGexrfqu60)
+
+[Repositorio no dockerhub](https://hub.docker.com/repositories)
+
+[Subindo uma imagem para o dockerhub](https://jtemporal.com/subindo-imagens-docker-pro-dockerhub/)
