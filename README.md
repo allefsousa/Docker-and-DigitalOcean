@@ -33,3 +33,7 @@ Desafios superados utilizando docker e digital ocean. Foi utilizado Droplets, Ap
 [Repositorio no dockerhub](https://hub.docker.com/repositories)
 
 [Subindo uma imagem para o dockerhub](https://jtemporal.com/subindo-imagens-docker-pro-dockerhub/)
+
+[Github Action deploy springboot in github artfacts](https://www.youtube.com/watch?v=a27v_VDD-eA)
+
+[Repositorio base para criar o dockerfile do my miles](https://github.com/mcicolella/docker-microservice)
